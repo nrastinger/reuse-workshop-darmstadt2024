@@ -1,0 +1,903 @@
+<?xml-model?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pa000046-0004">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">28. Januar 1740</title>
+                <author>anne-christine.guenther@tu-darmstadt.de</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>tranScriptorium</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <title>DAT-1740</title>
+            </seriesStmt>
+            <sourceDesc>
+                <p>TRP document creator: anne-christine.guenther@tu-darmstadt.de</p>
+                <p>created by Dario.Kampkaspar@oeaw.ac.at</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+  <facsimile>
+    <surface xml:id="facs_1" ulx="0" uly="0" lrx="2087" lry="2299">
+      <graphic width="2087px" height="2299px" url="http://tudigit.ulb.tu-darmstadt.de/image/Za-150-1740/1/0013.jpg"/>
+      <zone rendition="printspace" points="116,176 1892,176 1892,2206 116,2206"/>
+      <zone rendition="TextRegion" xml:id="facs_1_TextRegion_1589281152515_1399" subtype="issue-number" points="262,236 837,236 837,326 262,326">
+        <zone rendition="Line" xml:id="facs_1_r_1_1l1" points="261,226 753,226 753,331 261,331"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_1_TextRegion_1589281156282_1404" subtype="issue-year" points="837,236 1166,236 1166,326 837,326">
+        <zone rendition="Line" xml:id="facs_1_r_1_1l2" points="956,245 1143,245 1143,341 956,341"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_1_TextRegion_1589281156282_1403" subtype="issue-date" points="1166,236 1761,236 1761,326 1166,326">
+        <zone rendition="Line" xml:id="facs_1_r_1_1l3" points="1205,233 1764,233 1764,345 1205,345"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_1_TextRegion_1589281147080_1394" subtype="paragraph" points="262,326 1761,326 1761,425 262,425">
+        <zone rendition="Line" xml:id="facs_1_r_1_1l4" points="387,331 1629,331 1629,442 387,442"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_1_TextRegion_1589281243287_1428" subtype="header" points="248,1102 1773,1102 1773,1388 248,1388">
+        <zone rendition="Line" xml:id="facs_1_line_1589281212884_1415" points="752,1174 1277,1174 1277,1234 752,1234"/>
+        <zone rendition="Line" xml:id="facs_1_line_1589281223966_1420" points="271,1330 1734,1330 1734,1383 271,1383"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_1_TextRegion_1589281243287_1427" subtype="paragraph" points="248,1388 1768,1388 1768,1479 248,1479">
+        <zone rendition="Line" xml:id="facs_1_r_3_1l1" points="437,1398 1596,1398 1596,1475 437,1475"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_1_TextRegion_1589281265463_1449" subtype="heading" points="262,1512 1765,1512 1765,1587 262,1587">
+        <zone rendition="Line" xml:id="facs_1_r_4_1l2" points="514,1505 1480,1505 1480,1604 514,1604"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_1_TextRegion_1589281265463_1448" subtype="paragraph" points="262,1587 1765,1587 1765,1794 262,1794">
+        <zone rendition="Line" xml:id="facs_1_r_4_1l3" points="268,1596 1774,1596 1774,1661 268,1661"/>
+        <zone rendition="Line" xml:id="facs_1_r_4_1l4" points="282,1645 1758,1645 1758,1712 282,1712"/>
+        <zone rendition="Line" xml:id="facs_1_r_4_1l5" points="269,1691 1774,1691 1774,1776 269,1776"/>
+        <zone rendition="Line" xml:id="facs_1_line_1589281262674_1444" points="284,1734 990,1734 990,1794 284,1794"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_1_TextRegion_1589281334003_1470" subtype="paragraph" points="262,1794 1765,1794 1765,2109 262,2109">
+        <zone rendition="Line" xml:id="facs_1_line_1589281262677_1445" points="255,1794 1766,1794 1766,1854 255,1854"/>
+        <zone rendition="Line" xml:id="facs_1_r_4_1l8" points="269,1850 1767,1850 1767,1909 269,1909"/>
+        <zone rendition="Line" xml:id="facs_1_r_4_1l9" points="276,1900 1770,1900 1770,1960 276,1960"/>
+        <zone rendition="Line" xml:id="facs_1_r_4_1l10" points="270,1944 1773,1944 1773,2005 270,2005"/>
+        <zone rendition="Line" xml:id="facs_1_r_4_1l11" points="279,1998 1773,1998 1773,2054 279,2054"/>
+        <zone rendition="Line" xml:id="facs_1_line_1589281334213_1473" points="269,2051 1767,2051 1767,2109 269,2109"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_1_TextRegion_1589281334003_1469" subtype="paragraph" points="262,2109 1765,2109 1765,2158 262,2158">
+        <zone rendition="Line" xml:id="facs_1_r_4_1l13" points="1623,2100 1773,2100 1773,2173 1623,2173"/>
+      </zone>
+        </surface>
+    <surface xml:id="facs_2" ulx="0" uly="0" lrx="2045" lry="2361">
+      <graphic width="2045px" height="2361px" url="http://tudigit.ulb.tu-darmstadt.de/image/Za-150-1740/1/0014.jpg"/>
+      <zone rendition="printspace" points="0,0 2045,0 2045,2361 0,2361"/>
+      <zone rendition="TextRegion" xml:id="facs_2_TextRegion_1589281528413_1566" subtype="paragraph" points="345,174 1888,174 1888,389 345,389">
+        <zone rendition="Line" xml:id="facs_2_r_1_1l1" points="359,168 1883,168 1883,232 359,232"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l2" points="359,231 1884,231 1884,294 359,294"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l3" points="362,287 1893,287 1893,350 362,350"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l4" points="364,338 858,338 858,403 364,403"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_2_TextRegion_1589281528412_1565" subtype="paragraph" points="345,389 1888,389 1888,1637 345,1637">
+        <zone rendition="Line" xml:id="facs_2_line_1589281528685_1568" points="335,389 1897,389 1897,458 335,458"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l6" points="367,442 1884,442 1884,501 367,501"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l7" points="373,492 1879,492 1879,561 373,561"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l8" points="378,550 1887,550 1887,617 378,617"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l9" points="378,592 1892,592 1892,655 378,655"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l10" points="370,651 1886,651 1886,717 370,717"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l11" points="371,692 1895,692 1895,756 371,756"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l12" points="373,756 1885,756 1885,822 373,822"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l13" points="374,811 1895,811 1895,872 374,872"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l14" points="377,860 1884,860 1884,920 377,920"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l15" points="367,912 1892,912 1892,974 367,974"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l16" points="366,966 1897,966 1897,1030 366,1030"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l17" points="378,1016 1884,1016 1884,1070 378,1070"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l18" points="374,1064 1885,1064 1885,1130 374,1130"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l19" points="371,1118 1896,1118 1896,1190 371,1190"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l20" points="377,1167 1884,1167 1884,1221 377,1221"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l21" points="372,1215 1896,1215 1896,1285 372,1285"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l22" points="383,1273 1894,1273 1894,1320 383,1320"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l23" points="380,1337 1886,1337 1886,1384 380,1384"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l24" points="383,1377 1890,1377 1890,1439 383,1439"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l25" points="381,1426 1891,1426 1891,1487 381,1487"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l26" points="376,1490 1893,1490 1893,1538 376,1538"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l27" points="384,1527 1883,1527 1883,1608 384,1608"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l28" points="381,1580 811,1580 811,1648 381,1648"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_2_TextRegion_1589281524161_1559" subtype="paragraph" points="345,1637 1888,1637 1888,1821 345,1821">
+        <zone rendition="Line" xml:id="facs_2_line_1589281524553_1562" points="341,1637 1887,1637 1887,1701 341,1701"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l30" points="374,1682 1883,1682 1883,1761 374,1761"/>
+        <zone rendition="Line" xml:id="facs_2_r_1_1l31" points="383,1729 1040,1729 1040,1810 383,1810"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_2_TextRegion_1589281521200_1553" subtype="heading" points="345,1821 1888,1821 1888,1898 345,1898">
+        <zone rendition="Line" xml:id="facs_2_line_1589281521471_1556" points="676,1821 1543,1821 1543,1898 676,1898"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_2_TextRegion_1589281519887_1545" subtype="paragraph" points="345,1898 1888,1898 1888,2010 345,2010">
+        <zone rendition="Line" xml:id="facs_2_line_1589281520162_1550" points="344,1898 1884,1898 1884,1959 344,1959"/>
+        <zone rendition="Line" xml:id="facs_2_line_1589281518226_1541" points="368,1942 1090,1942 1090,2010 368,2010"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_2_TextRegion_1589281517948_1537" subtype="paragraph" points="345,2010 1888,2010 1888,2109 345,2109">
+        <zone rendition="Line" xml:id="facs_2_line_1589281518229_1542" points="342,2010 1890,2010 1890,2062 342,2062"/>
+        <zone rendition="Line" xml:id="facs_2_line_1589281515672_1535" points="363,2059 1888,2059 1888,2109 363,2109"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_2_TextRegion_1589281515354_1531" subtype="paragraph" points="345,2109 1888,2109 1888,2170 345,2170">
+        <zone rendition="Line" xml:id="facs_2_r_1_1l37" points="1726,2101 1894,2101 1894,2182 1726,2182"/>
+      </zone>
+        </surface>
+    <surface xml:id="facs_3" ulx="0" uly="0" lrx="2027" lry="2389">
+      <graphic width="2027px" height="2389px" url="http://tudigit.ulb.tu-darmstadt.de/image/Za-150-1740/1/0015.jpg"/>
+      <zone rendition="printspace" points="19,127 1994,127 1994,2287 19,2287"/>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281737342_1707" subtype="paragraph" points="192,235 1771,235 1771,345 192,345">
+        <zone rendition="Line" xml:id="facs_3_r_1_1l1" points="226,203 1769,203 1769,307 226,307"/>
+        <zone rendition="Line" xml:id="facs_3_line_1589281737570_1710" points="226,288 1756,288 1756,345 226,345"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281737342_1706" subtype="paragraph" points="192,345 1771,345 1771,466 192,466">
+        <zone rendition="Line" xml:id="facs_3_line_1589281737571_1711" points="182,345 1780,345 1780,395 182,395"/>
+        <zone rendition="Line" xml:id="facs_3_line_1589281736257_1704" points="230,390 1015,390 1015,466 230,466"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281735896_1700" subtype="heading" points="192,466 1771,466 1771,567 192,567">
+        <zone rendition="Line" xml:id="facs_3_r_1_1l5" points="572,478 1368,478 1368,574 572,574"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281733908_1694" subtype="paragraph" points="192,567 1771,567 1771,672 192,672">
+        <zone rendition="Line" xml:id="facs_3_line_1589281734229_1697" points="194,567 1774,567 1774,629 194,629"/>
+        <zone rendition="Line" xml:id="facs_3_r_1_1l7" points="233,612 1483,612 1483,670 233,670"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281732031_1688" subtype="paragraph" points="192,672 1772,672 1772,798 192,798">
+        <zone rendition="Line" xml:id="facs_3_line_1589281732253_1691" points="182,672 1772,672 1772,758 182,758"/>
+        <zone rendition="Line" xml:id="facs_3_line_1589281729173_1686" points="224,717 864,717 864,798 224,798"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281728874_1682" subtype="heading" points="193,798 1773,798 1773,877 193,877">
+        <zone rendition="Line" xml:id="facs_3_line_1589281727789_1680" points="653,799 1271,799 1271,877 653,877"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281727500_1676" subtype="paragraph" points="194,877 1775,877 1775,1124 194,1124">
+        <zone rendition="Line" xml:id="facs_3_r_1_1l11" points="181,887 1773,887 1773,965 181,965"/>
+        <zone rendition="Line" xml:id="facs_3_r_1_1l12" points="223,943 1774,943 1774,1010 223,1010"/>
+        <zone rendition="Line" xml:id="facs_3_r_1_1l13" points="229,994 1772,994 1772,1042 229,1042"/>
+        <zone rendition="Line" xml:id="facs_3_r_1_1l14" points="224,1053 1727,1053 1727,1109 224,1109"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281724513_1672" subtype="heading" points="196,1124 1776,1124 1776,1220 196,1220">
+        <zone rendition="Line" xml:id="facs_3_r_1_1l15" points="468,1138 1483,1138 1483,1220 468,1220"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281722922_1666" subtype="paragraph" points="197,1220 1777,1220 1777,1368 197,1368">
+        <zone rendition="Line" xml:id="facs_3_line_1589281723156_1669" points="204,1220 1770,1220 1770,1273 204,1273"/>
+        <zone rendition="Line" xml:id="facs_3_r_1_1l17" points="243,1271 1770,1271 1770,1339 243,1339"/>
+        <zone rendition="Line" xml:id="facs_3_r_1_1l18" points="242,1316 546,1316 546,1386 242,1386"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281721143_1660" subtype="paragraph" points="198,1368 1778,1368 1778,1426 198,1426">
+        <zone rendition="Line" xml:id="facs_3_line_1589281721444_1663" points="183,1368 1560,1368 1560,1426 183,1426"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281717986_1654" subtype="paragraph" points="199,1426 1779,1426 1779,1558 199,1558">
+        <zone rendition="Line" xml:id="facs_3_r_1_1l20" points="190,1432 1763,1432 1763,1504 190,1504"/>
+        <zone rendition="Line" xml:id="facs_3_r_1_1l21" points="242,1469 805,1469 805,1552 242,1552"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281712107_1650" subtype="heading" points="200,1558 1780,1558 1780,1648 200,1648">
+        <zone rendition="Line" xml:id="facs_3_line_1589281708453_1646" points="407,1536 1545,1536 1545,1648 407,1648"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281708269_1642" subtype="paragraph" points="201,1648 1782,1648 1782,1887 201,1887">
+        <zone rendition="Line" xml:id="facs_3_line_1589281708454_1647" points="184,1648 1326,1648 1326,1713 184,1713"/>
+        <zone rendition="Line" xml:id="facs_3_r_1_1l24" points="191,1693 1282,1693 1282,1770 191,1770"/>
+        <zone rendition="Line" xml:id="facs_3_r_1_1l25" points="204,1745 1607,1745 1607,1806 204,1806"/>
+        <zone rendition="Line" xml:id="facs_3_line_1589281706706_1640" points="195,1814 1576,1814 1576,1887 195,1887"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281706450_1636" subtype="heading" points="203,1887 1783,1887 1783,1975 203,1975">
+        <zone rendition="Line" xml:id="facs_3_line_1589281704908_1634" points="574,1867 1379,1867 1379,1975 574,1975"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281704649_1630" subtype="paragraph" points="204,1975 1785,1975 1785,2167 204,2167">
+        <zone rendition="Line" xml:id="facs_3_r_1_1l28" points="191,1941 1764,1941 1764,2071 191,2071"/>
+        <zone rendition="Line" xml:id="facs_3_r_1_1l29" points="193,2025 1024,2025 1024,2098 193,2098"/>
+        <zone rendition="Line" xml:id="facs_3_r_1_1l30" points="185,2069 1013,2069 1013,2166 185,2166"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_3_TextRegion_1589281702103_1626" subtype="paragraph" points="206,2167 1786,2167 1786,2271 206,2271">
+        <zone rendition="Line" xml:id="facs_3_line_1589281693054_1621" points="1657,2199 1742,2199 1742,2249 1657,2249"/>
+      </zone>
+        </surface>
+    <surface xml:id="facs_4" ulx="0" uly="0" lrx="2006" lry="2328">
+      <graphic width="2006px" height="2328px" url="http://tudigit.ulb.tu-darmstadt.de/image/Za-150-1740/1/0016.jpg"/>
+      <zone rendition="printspace" points="0,0 2006,0 2006,2328 0,2328"/>
+      <zone rendition="TextRegion" xml:id="facs_4_r_1_1" subtype="paragraph" points="290,148 1681,148 1681,287 290,287">
+        <zone rendition="Line" xml:id="facs_4_r_1_1l1" points="290,119 1689,119 1689,227 290,227"/>
+        <zone rendition="Line" xml:id="facs_4_r_1_1l2" points="296,206 1305,206 1305,287 296,287"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_4_r_2_1" subtype="heading" points="343,289 1812,289 1812,426 343,426">
+        <zone rendition="Line" xml:id="facs_4_r_2_1l1" points="346,276 1811,276 1811,407 346,407"/>
+        <zone rendition="Line" xml:id="facs_4_r_2_1l2" points="900,359 1273,359 1273,438 900,438"/>
+      </zone>
+      <zone rendition="Table" xml:id="facs_4_Table_1590656106834_559" points="269,425 1066,425 1066,758 269,758">
+        <zone rendition="TableCell" xml:id="facs_4_line_1590656158348_635" points="295,423 1067,423 1067,491 295,491"/>
+        <zone rendition="TableCell" xml:id="facs_4_line_1590656161544_640" points="288,475 1066,475 1066,557 288,557"/>
+        <zone rendition="TableCell" xml:id="facs_4_line_1590656164440_645" points="288,530 1067,530 1067,602 288,602"/>
+        <zone rendition="TableCell" xml:id="facs_4_line_1590656167262_650" points="288,584 1073,584 1073,664 288,664"/>
+        <zone rendition="TableCell" xml:id="facs_4_line_1590656170502_655" points="288,635 1069,635 1069,702 288,702"/>
+        <zone rendition="TableCell" xml:id="facs_4_line_1590656173443_660" points="288,691 1070,691 1070,766 288,766"/>
+      </zone>
+      <zone rendition="Table" xml:id="facs_4_Table_1590656112410_563" points="1080,426 1890,426 1890,730 1080,730">
+        <zone rendition="TableCell" xml:id="facs_4_line_1590656176953_665" points="1085,423 1862,423 1862,521 1085,521"/>
+        <zone rendition="TableCell" xml:id="facs_4_line_1590656180003_670" points="1076,486 1855,486 1855,576 1076,576"/>
+        <zone rendition="TableCell" xml:id="facs_4_line_1590656184421_675" points="1075,549 1863,549 1863,619 1075,619"/>
+        <zone rendition="TableCell" xml:id="facs_4_line_1590656187267_680" points="1082,595 1856,595 1856,680 1082,680"/>
+        <zone rendition="TableCell" xml:id="facs_4_line_1590656189802_685" points="1077,651 1862,651 1862,731 1077,731"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_4_r_7_1" subtype="heading" points="405,770 1742,770 1742,932 405,932">
+        <zone rendition="Line" xml:id="facs_4_r_7_1l1" points="400,750 1747,750 1747,890 400,890"/>
+        <zone rendition="Line" xml:id="facs_4_r_7_1l2" points="861,841 1270,841 1270,945 861,945"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_4_TextRegion_1589282017592_1817" subtype="heading" points="279,943 1844,943 1844,1015 279,1015">
+        <zone rendition="Line" xml:id="facs_4_r_8_1l1" points="711,925 1401,925 1401,1031 711,1031"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_4_TextRegion_1589282017592_1816" subtype="paragraph" points="279,1015 1844,1015 1844,1409 279,1409">
+        <zone rendition="Line" xml:id="facs_4_line_1589282017834_1819" points="274,993 1395,993 1395,1071 274,1071"/>
+        <zone rendition="Line" xml:id="facs_4_r_8_1l3" points="281,1073 1849,1073 1849,1164 281,1164"/>
+        <zone rendition="Line" xml:id="facs_4_r_8_1l4" points="328,1119 575,1119 575,1188 328,1188"/>
+        <zone rendition="Line" xml:id="facs_4_r_8_1l5" points="269,1165 1739,1165 1739,1249 269,1249"/>
+        <zone rendition="Line" xml:id="facs_4_r_8_1l6" points="278,1223 1609,1223 1609,1306 278,1306"/>
+        <zone rendition="Line" xml:id="facs_4_r_8_1l7" points="277,1269 1694,1269 1694,1348 277,1348"/>
+        <zone rendition="Line" xml:id="facs_4_r_8_1l8" points="278,1326 1832,1326 1832,1424 278,1424"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_4_TextRegion_1589282026330_1825" subtype="heading" points="278,1405 1842,1405 1842,1459 278,1459">
+        <zone rendition="Line" xml:id="facs_4_r_9_1l1" points="880,1398 1229,1398 1229,1483 880,1483"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_4_TextRegion_1589282040101_1832" subtype="paragraph" points="278,1459 1842,1459 1842,1673 278,1673">
+        <zone rendition="Line" xml:id="facs_4_line_1589282026633_1827" points="274,1462 1846,1462 1846,1532 274,1532"/>
+        <zone rendition="Line" xml:id="facs_4_r_9_1l3" points="318,1525 1845,1525 1845,1604 318,1604"/>
+        <zone rendition="Line" xml:id="facs_4_r_9_1l4" points="326,1576 1841,1576 1841,1638 326,1638"/>
+        <zone rendition="Line" xml:id="facs_4_line_1589282040355_1835" points="318,1621 1195,1621 1195,1684 318,1684"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_4_TextRegion_1589282040101_1831" subtype="paragraph" points="278,1673 1842,1673 1842,1800 278,1800">
+        <zone rendition="Line" xml:id="facs_4_r_9_1l6" points="281,1679 1843,1679 1843,1757 281,1757"/>
+        <zone rendition="Line" xml:id="facs_4_r_9_1l7" points="307,1719 963,1719 963,1810 307,1810"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_4_TextRegion_1589282067515_1850" subtype="heading" points="270,1791 1838,1791 1838,1865 270,1865">
+        <zone rendition="Line" xml:id="facs_4_r_11_1l1" points="698,1790 1417,1790 1417,1881 698,1881"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_4_TextRegion_1589282075712_1857" subtype="paragraph" points="270,1865 1838,1865 1838,1972 270,1972">
+        <zone rendition="Line" xml:id="facs_4_line_1589282067749_1852" points="267,1859 1831,1859 1831,1954 267,1954"/>
+        <zone rendition="Line" xml:id="facs_4_line_1589282075955_1860" points="313,1908 961,1908 961,1977 313,1977"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_4_TextRegion_1589282095522_1864" subtype="paragraph" points="270,1972 1838,1972 1838,2027 270,2027">
+        <zone rendition="Line" xml:id="facs_4_line_1589282095842_1867" points="268,1949 1423,1949 1423,2038 268,2038"/>
+      </zone>
+      <zone rendition="TextRegion" xml:id="facs_4_TextRegion_1589282095522_1863" subtype="paragraph" points="270,2027 1838,2027 1838,2097 270,2097">
+        <zone rendition="Line" xml:id="facs_4_r_11_1l5" points="260,2019 1712,2019 1712,2114 260,2114"/>
+      </zone>
+        </surface>
+    </facsimile>
+  <text>
+    <body>
+      <div xml:id="d1">
+        <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+        <fw facs="#facs_1_TextRegion_1589281152515_1399" type="issue-number"> <lb facs="#facs_1_r_1_1l1" n="N001"/>
+                    <w xml:id="w1">Num</w>
+                    <pc xml:id="pc1">.</pc> <w xml:id="w2">XVIII</w>
+                    <pc xml:id="pc2">.</pc>
+                </fw>
+        <fw facs="#facs_1_TextRegion_1589281156282_1404" type="issue-year"> <lb facs="#facs_1_r_1_1l2" n="N001"/>
+                    <num xml:id="num1">1740</num>
+                    <pc xml:id="pc3">.</pc>
+                </fw>
+        <fw facs="#facs_1_TextRegion_1589281156282_1403" type="issue-date"> <lb facs="#facs_1_r_1_1l3" n="N001"/>
+                    <w xml:id="w3">den</w> <num xml:id="num2">28</num>
+                    <pc xml:id="pc4">.</pc> <w xml:id="w4">Januar</w>
+                    <pc xml:id="pc5">.</pc>
+                </fw>
+        <ab xml:id="p1"> <lb facs="#facs_1_r_1_1l4" n="N001"/>
+                    <w xml:id="w5">Mit</w> <w xml:id="w6">Hochfuͤrſtl</w>
+                    <pc xml:id="pc6">.</pc> <w xml:id="w7">Gnaͤdigſtem</w> <w xml:id="w8">PRIVILEGIO</w>
+                    <pc xml:id="pc7">.</pc>
+                </ab>
+        <fw type="header" place="top" facs="#facs_1_TextRegion_1589281243287_1428"> <lb facs="#facs_1_line_1589281212884_1415" n="N001"/>
+                    <w xml:id="w9">Darmſtaͤdtiſches</w> <lb facs="#facs_1_line_1589281223966_1420" n="N002"/>
+                    <w xml:id="w10">Frag</w>
+                    <pc xml:id="pc8">=</pc>
+                    <w xml:id="w11">und</w> <w xml:id="w12">Anzeigungs</w>
+                    <pc xml:id="pc9">=</pc>
+                    <w xml:id="w13">Blaͤttgen/</w>
+                </fw>
+        <ab xml:id="p2"> <lb facs="#facs_1_r_3_1l1" n="N001"/>
+                    <w xml:id="w14">zu</w> <w xml:id="w15">finden</w> <w xml:id="w16">bey</w> <w xml:id="w17">Gottfried</w> <w xml:id="w18">Heinrich</w> <w xml:id="w19">Eylau</w>
+                    <pc xml:id="pc10">,</pc> <w xml:id="w20">Hof</w>
+                    <pc xml:id="pc11">=</pc>
+                    <w xml:id="w21">Buchdrucker</w>
+                    <pc xml:id="pc12">.</pc>
+                </ab>
+            </div>
+      <div xml:id="d2">
+        <head facs="#facs_1_TextRegion_1589281265463_1449"> <lb facs="#facs_1_r_4_1l2" n="N001"/>
+                    <w xml:id="w22">Es</w> <w xml:id="w23">wird</w> <w xml:id="w24">zum</w> <w xml:id="w25">Verkauf</w> <w xml:id="w26">angetragen</w>
+                    <pc xml:id="pc13">:</pc>
+                </head>
+        <ab xml:id="p3"> <lb facs="#facs_1_r_4_1l3" n="N001"/>
+                    <num xml:id="num3">1</num>
+                    <pc xml:id="pc14">.</pc> <w xml:id="w27">Es</w> <w xml:id="w28">iſt</w> <w xml:id="w29">in</w> <w xml:id="w30">einer</w> <w xml:id="w31">nahe</w> <w xml:id="w32">am</w> <w xml:id="w33">Marckt</w> <w xml:id="w34">gelegenen</w> <w xml:id="w35">Gaſſe</w> <w xml:id="w36">ein</w> <w xml:id="w37">wohlgebautes</w> <w xml:id="w38">Hauß</w> <lb facs="#facs_1_r_4_1l4" n="N002"/>
+                    <w xml:id="w39">zu</w> <w xml:id="w40">verkauffen</w>
+                    <pc xml:id="pc15">,</pc> <w xml:id="w41">wobey</w> <w xml:id="w42">nebſt</w> <w xml:id="w43">der</w> <w xml:id="w44">Schild</w>
+                    <pc xml:id="pc16">=</pc>
+                    <w xml:id="w45">Gerechtigkeit</w> <w xml:id="w46">das</w> <w xml:id="w47">Privilegium</w> <w xml:id="w48">uͤber</w> <lb facs="#facs_1_r_4_1l5" n="N003"/>
+                    <w xml:id="w49">ein</w> <w xml:id="w50">Caffée</w>
+                    <pc xml:id="pc17">-</pc>
+                    <w xml:id="w51">Hauß</w> <w xml:id="w52">zu</w> <w xml:id="w53">bekommen</w>
+                    <pc xml:id="pc18">;</pc> <w xml:id="w54">Wer</w> <w xml:id="w55">Luſt</w> <w xml:id="w56">darzu</w> <w xml:id="w57">hat</w>
+                    <pc xml:id="pc19">,</pc> <w xml:id="w58">kan</w> <w xml:id="w59">in</w> <w xml:id="w60">der</w> 
+            <w xml:id="w61">Buchdru<pc xml:id="pc20">=</pc>
+                        <lb facs="#facs_1_line_1589281262674_1444" n="N004"/>ckerey</w> <w xml:id="w62">naͤhere</w> <w xml:id="w63">Nachricht</w> <w xml:id="w64">erfragen</w>
+                    <pc xml:id="pc21">.</pc>
+                </ab>
+        <ab xml:id="p4"> <lb facs="#facs_1_line_1589281262677_1445" n="N001"/>
+                    <num xml:id="num4">2</num>
+                    <pc xml:id="pc22">.</pc> <w xml:id="w65">Letzthin</w> <w xml:id="w66">hat</w> <w xml:id="w67">zwar</w> <w xml:id="w68">das</w> <w xml:id="w69">im</w> <w xml:id="w70">Gaſt</w>
+                    <pc xml:id="pc23">=</pc>
+                    <w xml:id="w71">Hauß</w> <w xml:id="w72">zum</w> <w xml:id="w73">Trauben</w> <w xml:id="w74">befindliche</w> <w xml:id="w75">gantz</w> <w xml:id="w76">neu</w> <lb facs="#facs_1_r_4_1l8" n="N002"/>
+                    <w xml:id="w77">auf</w> <w xml:id="w78">Straßburger</w> <w xml:id="w79">façon</w> <w xml:id="w80">verfertigte</w> <w xml:id="w81">Contoir</w> <w xml:id="w82">ſollen</w> <w xml:id="w83">heraus</w> <w xml:id="w84">geſpielet</w> <w xml:id="w85">werden</w>
+                    <pc xml:id="pc24">;</pc> <lb facs="#facs_1_r_4_1l9" n="N003"/>
+                    <w xml:id="w86">weilen</w> <w xml:id="w87">aber</w> <w xml:id="w88">die</w> <w xml:id="w89">Herren</w> <w xml:id="w90">Liebhabere</w> <w xml:id="w91">nicht</w> <w xml:id="w92">alle</w> <w xml:id="w93">zuſammen</w> <w xml:id="w94">gekommen</w>
+                    <pc xml:id="pc25">,</pc> <w xml:id="w95">und</w> <w xml:id="w96">alſo</w> <lb facs="#facs_1_r_4_1l10" n="N004"/>
+                    <w xml:id="w97">nicht</w> <w xml:id="w98">ausgeſpielet</w> <w xml:id="w99">worden</w>
+                    <pc xml:id="pc26">,</pc> <w xml:id="w100">als</w> <w xml:id="w101">werden</w> <w xml:id="w102">hiermit</w> <w xml:id="w103">noch</w> <w xml:id="w104">einmahl</w> <w xml:id="w105">die</w> <w xml:id="w106">Herren</w> <lb facs="#facs_1_r_4_1l11" n="N005"/>
+                    <w xml:id="w107">Liebhabere</w> <w xml:id="w108">nach</w> <w xml:id="w109">Standes</w>
+                    <pc xml:id="pc27">=</pc>
+                    <w xml:id="w110">Gebuͤhr</w> <w xml:id="w111">und</w> <w xml:id="w112">Wuͤrden</w> <w xml:id="w113">erſucht</w>
+                    <pc xml:id="pc28">,</pc> <w xml:id="w114">bey</w> <w xml:id="w115">jetzt</w> 
+            <w xml:id="w116">gemach<pc xml:id="pc29">=</pc>
+                        <lb facs="#facs_1_line_1589281334213_1473" n="N006"/>ten</w> <num xml:id="num5">80</num>
+                    <pc xml:id="pc30">.</pc> <w xml:id="w117">Looßen</w>
+                    <pc xml:id="pc31">,</pc> <w xml:id="w118">jedes</w> <w xml:id="w119">Looß</w> <w xml:id="w120">à</w> <num xml:id="num6">1</num>
+                    <pc xml:id="pc32">.</pc> <w xml:id="w121">fl</w>
+                    <pc xml:id="pc33">.</pc> <w xml:id="w122">ſich</w> <w xml:id="w123">auf</w> <w xml:id="w124">zukuͤnftigen</w> <w xml:id="w125">Mitwochen</w>
+                    <pc xml:id="pc34">,</pc> <w xml:id="w126">Nach</w>
+                    <pc xml:id="pc35">=</pc>
+                </ab>
+        <ab xml:id="p5"> <lb facs="#facs_1_r_4_1l13" n="N001"/>
+                    <w xml:id="w127">mit</w>
+                    <pc xml:id="pc36">=</pc>
+                </ab>
+        <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+        <ab xml:id="p6"> <lb facs="#facs_2_r_1_1l1" n="N001"/>
+                    <w xml:id="w128">mittags</w> <w xml:id="w129">zwiſchen</w> <num xml:id="num7">2</num>
+                    <pc xml:id="pc37">.</pc> <w xml:id="w130">und</w> <num xml:id="num8">3</num>
+                    <pc xml:id="pc38">.</pc> <w xml:id="w131">Uhr</w>
+                    <pc xml:id="pc39">,</pc> <w xml:id="w132">in</w> <w xml:id="w133">obbemeldten</w> <w xml:id="w134">Gaſt</w>
+                    <pc xml:id="pc40">=</pc>
+                    <w xml:id="w135">Hauß</w> <w xml:id="w136">einzufinden</w>
+                    <pc xml:id="pc41">.</pc> <lb facs="#facs_2_r_1_1l2" n="N002"/>
+                    <w xml:id="w137">Die</w> <w xml:id="w138">Herren</w> <w xml:id="w139">Liebhaber</w> <w xml:id="w140">belieben</w> <w xml:id="w141">ihre</w> <w xml:id="w142">Nahmen</w>
+                    <pc xml:id="pc42">,</pc> <w xml:id="w143">und</w> <w xml:id="w144">wie</w> <w xml:id="w145">viel</w> <w xml:id="w146">Looße</w> <w xml:id="w147">ein</w> <w xml:id="w148">jeder</w> <lb facs="#facs_2_r_1_1l3" n="N003"/>
+                    <w xml:id="w149">nehmen</w> <w xml:id="w150">will</w>
+                    <pc xml:id="pc43">,</pc> <w xml:id="w151">durch</w> <w xml:id="w152">ein</w> <w xml:id="w153">kleines</w> <w xml:id="w154">Zettelchen</w> <w xml:id="w155">im</w> <w xml:id="w156">Trauben</w> <w xml:id="w157">bey</w> <w xml:id="w158">Herrn</w> 
+            <w xml:id="w159">Gaſthal<pc xml:id="pc44">=</pc>
+                        <lb facs="#facs_2_r_1_1l4" n="N004"/>ter</w> <w xml:id="w160">Imler</w> <w xml:id="w161">einzuſenden</w>
+                    <pc xml:id="pc45">.</pc>
+                </ab>
+        <ab xml:id="p7"> <lb facs="#facs_2_line_1589281528685_1568" n="N001"/>
+                    <num xml:id="num9">3</num>
+                    <pc xml:id="pc46">.</pc> <w xml:id="w162">Weilen</w> <w xml:id="w163">zeithero</w> <w xml:id="w164">die</w> <w xml:id="w165">Erfahrung</w> <w xml:id="w166">gezeiget</w>
+                    <pc xml:id="pc47">,</pc> <w xml:id="w167">daß</w> <w xml:id="w168">die</w> <w xml:id="w169">hieſigen</w> <w xml:id="w170">Unterthanen</w>
+                    <pc xml:id="pc48">,</pc> <w xml:id="w171">zu</w> <lb facs="#facs_2_r_1_1l6" n="N002"/>
+                    <w xml:id="w172">Befoͤrderung</w> <w xml:id="w173">ihrer</w> <w xml:id="w174">neuen</w> <w xml:id="w175">wie</w> <w xml:id="w176">auch</w> <w xml:id="w177">alten</w> <w xml:id="w178">Waſſer</w>
+                    <pc xml:id="pc49">=</pc>
+                    <w xml:id="w179">Bumben</w>
+                    <pc xml:id="pc50">=</pc>
+                    <w xml:id="w180">Arbeit</w>
+                    <pc xml:id="pc51">,</pc> <w xml:id="w181">von</w> 
+            <w xml:id="w182">an<pc xml:id="pc52">=</pc>
+                        <lb facs="#facs_2_r_1_1l7" n="N003"/>dern</w> <w xml:id="w183">Orten</w> <w xml:id="w184">Bumbenmacher</w> <w xml:id="w185">mit</w> <w xml:id="w186">groſſen</w> <w xml:id="w187">Koſten</w> <w xml:id="w188">haben</w> <w xml:id="w189">verſchreiben</w> <w xml:id="w190">muͤſſen</w>
+                    <pc xml:id="pc53">,</pc> <lb facs="#facs_2_r_1_1l8" n="N004"/>
+                    <w xml:id="w191">als</w> <w xml:id="w192">thut</w> <w xml:id="w193">Meiſter</w> <w xml:id="w194">Johann</w> <w xml:id="w195">Valentin</w> <w xml:id="w196">Pfannenſtiel</w>
+                    <pc xml:id="pc54">,</pc> <w xml:id="w197">Burger</w> <w xml:id="w198">und</w> 
+            <w xml:id="w199">Kupffer<pc xml:id="pc55">=</pc>
+                        <lb facs="#facs_2_r_1_1l9" n="N005"/>ſchmidt</w>
+                    <pc xml:id="pc56">,</pc> <w xml:id="w200">wie</w> <w xml:id="w201">auch</w> <w xml:id="w202">Feuer</w>
+                    <pc xml:id="pc57">=</pc>
+                    <w xml:id="w203">Spruͤtzen</w>
+                    <pc xml:id="pc58">=</pc>
+                    <w xml:id="w204">und</w> <w xml:id="w205">Waſſer</w>
+                    <pc xml:id="pc59">=</pc>
+                    <w xml:id="w206">Bumbenmacher</w> <w xml:id="w207">allhier</w>
+                    <pc xml:id="pc60">,</pc> <lb facs="#facs_2_r_1_1l10" n="N006"/>
+                    <pc xml:id="pc61">(</pc>
+                    <w xml:id="w208">ſowol</w> <w xml:id="w209">die</w> <w xml:id="w210">groſſen</w> <w xml:id="w211">Koſten</w> <w xml:id="w212">zu</w> <w xml:id="w213">erleichtern</w>
+                    <pc xml:id="pc62">,</pc> <w xml:id="w214">als</w> <w xml:id="w215">auch</w> <w xml:id="w216">einigen</w> <w xml:id="w217">die</w> <w xml:id="w218">Gedancken</w> <w xml:id="w219">zu</w> <lb facs="#facs_2_r_1_1l11" n="N007"/>
+                    <w xml:id="w220">entziehen</w>
+                    <pc xml:id="pc63">,</pc> <w xml:id="w221">ob</w> <w xml:id="w222">waͤre</w> <w xml:id="w223">hieſigen</w> <w xml:id="w224">Orths</w> <w xml:id="w225">niemand</w>
+                    <pc xml:id="pc64">,</pc> <w xml:id="w226">welcher</w> <w xml:id="w227">dergleichen</w> <w xml:id="w228">Arbeit</w> <lb facs="#facs_2_r_1_1l12" n="N008"/>
+                    <w xml:id="w229">verſtuͤnde</w> <w xml:id="w230">und</w> <w xml:id="w231">auf</w> <w xml:id="w232">Begehren</w> <w xml:id="w233">befoͤrdern</w> <w xml:id="w234">koͤnte</w>
+                    <pc xml:id="pc65">,</pc>
+                    <pc xml:id="pc66">)</pc> <w xml:id="w235">hiermit</w> <w xml:id="w236">zu</w> <w xml:id="w237">wiſſen</w>
+                    <pc xml:id="pc67">,</pc> <w xml:id="w238">daß</w> <w xml:id="w239">er</w> <lb facs="#facs_2_r_1_1l13" n="N009"/>
+                    <w xml:id="w240">ſchon</w> <w xml:id="w241">vor</w> <w xml:id="w242">einem</w> <w xml:id="w243">halben</w> <w xml:id="w244">Jahr</w> <w xml:id="w245">ſich</w> <w xml:id="w246">der</w> <w xml:id="w247">Waſſer</w>
+                    <pc xml:id="pc68">=</pc>
+                    <w xml:id="w248">Bumben</w>
+                    <pc xml:id="pc69">=</pc>
+                    <w xml:id="w249">Arbeit</w> 
+            <w xml:id="w250">angenom<pc xml:id="pc70">=</pc>
+                        <lb facs="#facs_2_r_1_1l14" n="N010"/>men</w>
+                    <pc xml:id="pc71">,</pc> <w xml:id="w251">und</w> <w xml:id="w252">in</w> <w xml:id="w253">dieſer</w> <w xml:id="w254">Zeit</w> <w xml:id="w255">viele</w> <w xml:id="w256">neue</w>
+                    <pc xml:id="pc72">,</pc> <w xml:id="w257">wie</w> <w xml:id="w258">auch</w> <w xml:id="w259">alte</w>
+                    <pc xml:id="pc73">,</pc> <w xml:id="w260">in</w> <w xml:id="w261">guten</w> <w xml:id="w262">und</w> <w xml:id="w263">tuͤchtigen</w> <lb facs="#facs_2_r_1_1l15" n="N011"/>
+                    <w xml:id="w264">Stand</w>
+                    <pc xml:id="pc74">,</pc> <w xml:id="w265">ohne</w> <w xml:id="w266">einige</w> <w xml:id="w267">Klage</w>
+                    <pc xml:id="pc75">,</pc> <w xml:id="w268">dargeſtellet</w>
+                    <pc xml:id="pc76">.</pc> <w xml:id="w269">Da</w> <w xml:id="w270">nun</w> <w xml:id="w271">ſolches</w> <w xml:id="w272">noch</w> <w xml:id="w273">vielen</w>
+                    <pc xml:id="pc77">,</pc> <lb facs="#facs_2_r_1_1l16" n="N012"/>
+                    <w xml:id="w274">welche</w> <w xml:id="w275">dergleichen</w> <w xml:id="w276">Arbeit</w> <w xml:id="w277">benoͤthiget</w> <w xml:id="w278">ſind</w>
+                    <pc xml:id="pc78">,</pc> <w xml:id="w279">unwiſſend</w> <w xml:id="w280">iſt</w>
+                    <pc xml:id="pc79">,</pc> <w xml:id="w281">als</w> <w xml:id="w282">wird</w> <w xml:id="w283">auch</w> 
+            <w xml:id="w284">zu<pc xml:id="pc80">=</pc>
+                        <lb facs="#facs_2_r_1_1l17" n="N013"/>gleich</w> <w xml:id="w285">berichtet</w>
+                    <pc xml:id="pc81">,</pc> <w xml:id="w286">daß</w> <w xml:id="w287">gedachter</w> <w xml:id="w288">Pfannenſtiehl</w> <w xml:id="w289">die</w> <w xml:id="w290">neue</w> <w xml:id="w291">Waſſer</w>
+                    <pc xml:id="pc82">=</pc>
+                    <w xml:id="w292">Bumben</w> <lb facs="#facs_2_r_1_1l18" n="N014"/>
+                    <w xml:id="w293">mit</w> <w xml:id="w294">Schraubwerck</w> <w xml:id="w295">ſo</w> <w xml:id="w296">verfertiget</w>
+                    <pc xml:id="pc83">,</pc> <w xml:id="w297">daß</w> <w xml:id="w298">man</w> <w xml:id="w299">Stuͤck</w> <w xml:id="w300">vor</w> <w xml:id="w301">Stuͤck</w> <w xml:id="w302">voneinander</w> <lb facs="#facs_2_r_1_1l19" n="N015"/>
+                    <w xml:id="w303">verlegen</w>
+                    <pc xml:id="pc84">,</pc> <w xml:id="w304">nach</w> <w xml:id="w305">denen</w> <w xml:id="w306">vorfallenden</w> <w xml:id="w307">Verhinderungen</w> <w xml:id="w308">des</w> <w xml:id="w309">Waſſers</w> <w xml:id="w310">ſehen</w>
+                    <pc xml:id="pc85">,</pc> <lb facs="#facs_2_r_1_1l20" n="N016"/>
+                    <w xml:id="w311">und</w> <w xml:id="w312">wieder</w> <w xml:id="w313">helffen</w> <w xml:id="w314">kan</w>
+                    <pc xml:id="pc86">,</pc> <w xml:id="w315">auch</w> <w xml:id="w316">ſolche</w> <w xml:id="w317">Winters</w>
+                    <pc xml:id="pc87">=</pc>
+                    <w xml:id="w318">Zeit</w> <w xml:id="w319">bey</w> <w xml:id="w320">ſtarcken</w> <w xml:id="w321">Froſt</w> 
+            <w xml:id="w322">abge<pc xml:id="pc88">=</pc>
+                        <lb facs="#facs_2_r_1_1l21" n="N017"/>ſchraubt</w>
+                    <pc xml:id="pc89">,</pc> <w xml:id="w323">und</w> <w xml:id="w324">vor</w> <w xml:id="w325">dem</w> <w xml:id="w326">auffriehren</w> <w xml:id="w327">verhuͤtet</w> <w xml:id="w328">werden</w> <w xml:id="w329">koͤnnen</w>
+                    <pc xml:id="pc90">;</pc> <w xml:id="w330">wie</w> <w xml:id="w331">dann</w> 
+            <w xml:id="w332">ge<pc xml:id="pc91">=</pc>
+                        <lb facs="#facs_2_r_1_1l22" n="N018"/>dachter</w> <w xml:id="w333">Pfannenſtiehl</w> <w xml:id="w334">bey</w> <w xml:id="w335">jetzigem</w> <w xml:id="w336">Froſt</w> <w xml:id="w337">die</w> <w xml:id="w338">Bumben</w>
+                    <pc xml:id="pc92">,</pc> <w xml:id="w339">ſo</w> <w xml:id="w340">er</w> <w xml:id="w341">neu</w> <w xml:id="w342">gemacht</w>
+                    <pc xml:id="pc93">,</pc> <lb facs="#facs_2_r_1_1l23" n="N019"/>
+                    <w xml:id="w343">abgeſchraubt</w>
+                    <pc xml:id="pc94">,</pc> <w xml:id="w344">wodurch</w> <w xml:id="w345">ſolche</w> <w xml:id="w346">von</w> <w xml:id="w347">dem</w> <w xml:id="w348">Froſt</w> <w xml:id="w349">unbeſchaͤdiget</w> <w xml:id="w350">erhalten</w>
+                    <pc xml:id="pc95">,</pc> <w xml:id="w351">und</w> <lb facs="#facs_2_r_1_1l24" n="N020"/>
+                    <w xml:id="w352">in</w> <w xml:id="w353">gutem</w> <w xml:id="w354">brauchbaren</w> <w xml:id="w355">Stande</w> <w xml:id="w356">geblieben</w> <w xml:id="w357">ſind</w>
+                    <pc xml:id="pc96">.</pc> <w xml:id="w358">Wer</w> <w xml:id="w359">nun</w> <w xml:id="w360">ſolche</w> <w xml:id="w361">neue</w> <w xml:id="w362">mit</w> <lb facs="#facs_2_r_1_1l25" n="N021"/>
+                    <w xml:id="w363">gutem</w> <w xml:id="w364">Schraubwerck</w> <w xml:id="w365">verſehene</w> <w xml:id="w366">Waſſer</w>
+                    <pc xml:id="pc97">=</pc>
+                    <w xml:id="w367">Bumben</w> <w xml:id="w368">verlangt</w>
+                    <pc xml:id="pc98">,</pc> <w xml:id="w369">oder</w> <w xml:id="w370">an</w> <w xml:id="w371">einer</w> <lb facs="#facs_2_r_1_1l26" n="N022"/>
+                    <w xml:id="w372">alten</w> <w xml:id="w373">was</w> <w xml:id="w374">zu</w> <w xml:id="w375">repariren</w> <w xml:id="w376">noͤthig</w> <w xml:id="w377">hat</w>
+                    <pc xml:id="pc99">,</pc> <w xml:id="w378">der</w> <w xml:id="w379">beliebe</w> <w xml:id="w380">ſich</w> <w xml:id="w381">bey</w> <w xml:id="w382">mehrgemeldten</w> 
+            <w xml:id="w383">Mei<pc xml:id="pc100">=</pc>
+                        <lb facs="#facs_2_r_1_1l27" n="N023"/>ſter</w> <w xml:id="w384">Pfannenſtiel</w> <w xml:id="w385">zu</w> <w xml:id="w386">melden</w>
+                    <pc xml:id="pc101">,</pc> <w xml:id="w387">welcher</w> <w xml:id="w388">dieſe</w> <w xml:id="w389">Arbeit</w>
+                    <pc xml:id="pc102">,</pc> <w xml:id="w390">ſo</w> <w xml:id="w391">viel</w> <w xml:id="w392">als</w> <w xml:id="w393">moͤglich</w>
+                    <pc xml:id="pc103">,</pc> 
+            <w xml:id="w394">baͤl<pc xml:id="pc104">=</pc>
+                        <lb facs="#facs_2_r_1_1l28" n="N024"/>diſt</w> <w xml:id="w395">befoͤrdern</w> <w xml:id="w396">wird</w>
+                    <pc xml:id="pc105">.</pc>
+                </ab>
+        <ab xml:id="p8"> <lb facs="#facs_2_line_1589281524553_1562" n="N001"/>
+                    <num xml:id="num10">4</num>
+                    <pc xml:id="pc106">.</pc> <w xml:id="w397">Es</w> <w xml:id="w398">iſt</w> <w xml:id="w399">allhier</w> <w xml:id="w400">zu</w> <w xml:id="w401">bekommen</w> <w xml:id="w402">das</w> <w xml:id="w403">Erlanger</w> <w xml:id="w404">broſtaretiſche</w> <w xml:id="w405">veritable</w> <w xml:id="w406">au</w> <w xml:id="w407">de</w> <w xml:id="w408">la</w> <lb facs="#facs_2_r_1_1l30" n="N002"/>
+                    <w xml:id="w409">Reine</w>
+                    <pc xml:id="pc107">,</pc> <w xml:id="w410">die</w> <w xml:id="w411">groſſe</w> <w xml:id="w412">Bouteille</w> <w xml:id="w413">à</w> <num xml:id="num11">45</num>
+                    <pc xml:id="pc108">.</pc> <w xml:id="w414">xr</w>
+                    <pc xml:id="pc109">.</pc> <w xml:id="w415">und</w> <w xml:id="w416">die</w> <w xml:id="w417">kleine</w> <num xml:id="num12">15</num>
+                    <pc xml:id="pc110">.</pc> <w xml:id="w418">xr</w>
+                    <pc xml:id="pc111">.</pc> <w xml:id="w419">wovon</w> <w xml:id="w420">in</w> <w xml:id="w421">der</w> <lb facs="#facs_2_r_1_1l31" n="N003"/>
+                    <w xml:id="w422">Buchdruckerey</w> <w xml:id="w423">nachzufragen</w> <w xml:id="w424">iſt</w>
+                    <pc xml:id="pc112">.</pc>
+                </ab>
+            </div>
+      <div xml:id="d3">
+        <head facs="#facs_2_TextRegion_1589281521200_1553"> <lb facs="#facs_2_line_1589281521471_1556" n="N001"/>
+                    <w xml:id="w425">Zu</w> <w xml:id="w426">verlehnen</w> <w xml:id="w427">wird</w> <w xml:id="w428">angetragen</w>
+                    <pc xml:id="pc113">:</pc>
+                </head>
+        <ab xml:id="p9"> <lb facs="#facs_2_line_1589281520162_1550" n="N001"/>
+                    <num xml:id="num13">1</num>
+                    <pc xml:id="pc114">.</pc> <w xml:id="w429">Es</w> <w xml:id="w430">iſt</w> <w xml:id="w431">in</w> <w xml:id="w432">der</w> <w xml:id="w433">Ochſengaſſe</w> <w xml:id="w434">eine</w> <w xml:id="w435">Stube</w> <w xml:id="w436">und</w> <w xml:id="w437">Kammer</w>
+                    <pc xml:id="pc115">,</pc> <w xml:id="w438">nebſt</w> <w xml:id="w439">einem</w> <w xml:id="w440">Bett</w>
+                    <pc xml:id="pc116">,</pc> <lb facs="#facs_2_line_1589281518226_1541" n="N002"/>
+                    <w xml:id="w441">vor</w> <w xml:id="w442">eine</w> <w xml:id="w443">ledige</w> <w xml:id="w444">Perſon</w> <w xml:id="w445">zu</w> <w xml:id="w446">beziehen</w>
+                    <pc xml:id="pc117">.</pc>
+                </ab>
+        <ab xml:id="p10"> <lb facs="#facs_2_line_1589281518229_1542" n="N001"/>
+                    <num xml:id="num14">2</num>
+                    <pc xml:id="pc118">.</pc> <w xml:id="w447">Wird</w> <w xml:id="w448">auch</w> <w xml:id="w449">hiermit</w> <w xml:id="w450">bekannt</w> <w xml:id="w451">gemacht</w>
+                    <pc xml:id="pc119">,</pc> <w xml:id="w452">daß</w> <w xml:id="w453">Kinder</w> <w xml:id="w454">von</w> <num xml:id="num15">10</num>
+                    <pc xml:id="pc120">.</pc> <w xml:id="w455">bis</w> <num xml:id="num16">13</num>
+                    <pc xml:id="pc121">.</pc> <w xml:id="w456">Jahren</w> 
+            <w xml:id="w457">all<pc xml:id="pc122">=</pc>
+                        <lb facs="#facs_2_line_1589281515672_1535" n="N002"/>hier</w> <w xml:id="w458">in</w> <w xml:id="w459">die</w> <w xml:id="w460">Koſt</w> <w xml:id="w461">und</w> <w xml:id="w462">Logis</w> <w xml:id="w463">kommen</w> <w xml:id="w464">koͤnnen</w>
+                    <pc xml:id="pc123">,</pc> <w xml:id="w465">wobey</w> <w xml:id="w466">ſie</w> <w xml:id="w467">auch</w> <w xml:id="w468">zugleich</w> <w xml:id="w469">im</w> <w xml:id="w470">naͤhen</w>
+                    <pc xml:id="pc124">,</pc>
+                </ab>
+        <ab xml:id="p11"> <lb facs="#facs_2_r_1_1l37" n="N001"/>
+                    <w xml:id="w471">ſticken</w>
+                </ab>
+        <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+        <ab xml:id="p12"> <lb facs="#facs_3_r_1_1l1" n="N001"/>
+                    <w xml:id="w472">ſticken</w> <w xml:id="w473">und</w> <w xml:id="w474">ſtricken</w>
+                    <pc xml:id="pc125">,</pc> <w xml:id="w475">auch</w> <w xml:id="w476">andern</w> <w xml:id="w477">Galanterien</w> <w xml:id="w478">und</w> <w xml:id="w479">Haußhaltungs</w>
+                    <pc xml:id="pc126">=</pc>
+                    <w xml:id="w480">Sachen</w> <lb facs="#facs_3_line_1589281737570_1710" n="N002"/>
+                    <w xml:id="w481">angefuͤhrt</w>
+                    <pc xml:id="pc127">,</pc> <w xml:id="w482">und</w> <w xml:id="w483">zu</w> <w xml:id="w484">allen</w> <w xml:id="w485">weiblichen</w> <w xml:id="w486">Verrichtungen</w> <w xml:id="w487">angehalten</w> <w xml:id="w488">werden</w> <w xml:id="w489">ſollen</w>
+                    <pc xml:id="pc128">.</pc>
+                </ab>
+        <ab xml:id="p13"> <lb facs="#facs_3_line_1589281737571_1711" n="N001"/>
+                    <num xml:id="num17">3</num>
+                    <pc xml:id="pc129">.</pc> <w xml:id="w490">Iſt</w> <w xml:id="w491">auch</w> <w xml:id="w492">vor</w> <w xml:id="w493">zwey</w> <w xml:id="w494">junge</w> <w xml:id="w495">Knaben</w>
+                    <pc xml:id="pc130">,</pc> <w xml:id="w496">ſo</w> <w xml:id="w497">das</w> <w xml:id="w498">Pædagogium</w> <w xml:id="w499">frequentiren</w> 
+            <w xml:id="w500">wol<pc xml:id="pc131">=</pc>
+                        <lb facs="#facs_3_line_1589281736257_1704" n="N002"/>len</w>
+                    <pc xml:id="pc132">,</pc> <w xml:id="w501">Bett</w> <w xml:id="w502">und</w> <w xml:id="w503">Cammer</w> <w xml:id="w504">zu</w> <w xml:id="w505">verlehnen</w>
+                    <pc xml:id="pc133">.</pc>
+                </ab>
+            </div>
+      <div xml:id="d4">
+        <head facs="#facs_3_TextRegion_1589281735896_1700"> <lb facs="#facs_3_r_1_1l5" n="N001"/>
+                    <w xml:id="w506">Zu</w> <w xml:id="w507">entlehnen</w> <w xml:id="w508">wird</w> <w xml:id="w509">geſucht</w>
+                    <pc xml:id="pc134">:</pc>
+                </head>
+        <ab xml:id="p14"> <lb facs="#facs_3_line_1589281734229_1697" n="N001"/>
+                    <w xml:id="w510">Ein</w> <w xml:id="w511">Mann</w> <w xml:id="w512">in</w> <w xml:id="w513">hieſigem</w> <w xml:id="w514">Land</w> <w xml:id="w515">ſucht</w> <num xml:id="num18">300</num>
+                    <pc xml:id="pc135">.</pc> <w xml:id="w516">fl</w>
+                    <pc xml:id="pc136">.</pc> <w xml:id="w517">zu</w> <w xml:id="w518">entlehnen</w>
+                    <pc xml:id="pc137">,</pc> <w xml:id="w519">und</w> <w xml:id="w520">verſpricht</w> <w xml:id="w521">unter</w> <lb facs="#facs_3_r_1_1l7" n="N002"/>
+                    <w xml:id="w522">gerichtlicher</w> <w xml:id="w523">Verlegung</w> <w xml:id="w524">vor</w> <num xml:id="num19">900</num>
+                    <pc xml:id="pc138">.</pc> <w xml:id="w525">fl</w>
+                    <pc xml:id="pc139">.</pc> <w xml:id="w526">Wieſen</w> <w xml:id="w527">zum</w> <w xml:id="w528">Unterpfand</w>
+                    <pc xml:id="pc140">.</pc>
+                </ab>
+        <ab xml:id="p15"> <lb facs="#facs_3_line_1589281732253_1691" n="N001"/>
+                    <w xml:id="w529">Noch</w> <w xml:id="w530">ein</w> <w xml:id="w531">anderer</w> <w xml:id="w532">begehrt</w> <num xml:id="num20">200</num>
+                    <pc xml:id="pc141">.</pc> <w xml:id="w533">fl</w>
+                    <pc xml:id="pc142">.</pc> <w xml:id="w534">unter</w> <w xml:id="w535">gerichtlicher</w> <w xml:id="w536">Verlegung</w> <w xml:id="w537">gegen</w> <w xml:id="w538">Feld</w>
+                    <pc xml:id="pc143">=</pc> <lb facs="#facs_3_line_1589281729173_1686" n="N002"/>
+                    <w xml:id="w539">Guͤter</w>
+                    <pc xml:id="pc144">,</pc> <w xml:id="w540">welche</w> <num xml:id="num21">500</num>
+                    <pc xml:id="pc145">.</pc> <w xml:id="w541">fl</w>
+                    <pc xml:id="pc146">.</pc> <w xml:id="w542">werth</w>
+                    <pc xml:id="pc147">.</pc>
+                </ab>
+            </div>
+      <div xml:id="d5">
+        <head facs="#facs_3_TextRegion_1589281728874_1682"> <lb facs="#facs_3_line_1589281727789_1680" n="N001"/>
+                    <w xml:id="w543">Beſondere</w> <w xml:id="w544">Nachricht</w>
+                    <pc xml:id="pc148">.</pc>
+                </head>
+        <ab xml:id="p16"> <lb facs="#facs_3_r_1_1l11" n="N001"/>
+                    <w xml:id="w545">Am</w> <w xml:id="w546">letzt</w> <w xml:id="w547">verwichenen</w> <num xml:id="num22">4</num>
+                    <pc xml:id="pc149">.</pc> <w xml:id="w548">Januarii</w> <w xml:id="w549">haben</w> <w xml:id="w550">die</w> <w xml:id="w551">Buchdruckerey</w>
+                    <pc xml:id="pc150">=</pc>
+                    <w xml:id="w552">Verwandten</w> <w xml:id="w553">zu</w> <lb facs="#facs_3_r_1_1l12" n="N002"/>
+                    <w xml:id="w554">Breßlau</w> <w xml:id="w555">das</w> <w xml:id="w556">Jubel</w>
+                    <pc xml:id="pc151">=</pc>
+                    <w xml:id="w557">Feſt</w>
+                    <pc xml:id="pc152">,</pc> <w xml:id="w558">wegen</w> <w xml:id="w559">des</w> <w xml:id="w560">verfloſſenen</w> <w xml:id="w561">dritten</w> <w xml:id="w562">Seculi</w> <w xml:id="w563">von</w> 
+            <w xml:id="w564">Erfin<pc xml:id="pc153">=</pc>
+                        <lb facs="#facs_3_r_1_1l13" n="N003"/>dung</w> <w xml:id="w565">der</w> <w xml:id="w566">Buchdruckerey</w>
+                    <pc xml:id="pc154">=</pc>
+                    <w xml:id="w567">Kunſt</w> <w xml:id="w568">in</w> <w xml:id="w569">Teutſchland</w>
+                    <pc xml:id="pc155">,</pc> <w xml:id="w570">begangen</w>
+                    <pc xml:id="pc156">;</pc> <w xml:id="w571">wobey</w> <w xml:id="w572">eine</w> 
+            <w xml:id="w573">ge<pc xml:id="pc157">=</pc>
+                        <lb facs="#facs_3_r_1_1l14" n="N004"/>lehrte</w> <w xml:id="w574">und</w> <w xml:id="w575">durch</w> <w xml:id="w576">den</w> <w xml:id="w577">Druck</w> <w xml:id="w578">bekannt</w> <w xml:id="w579">gemachte</w> <w xml:id="w580">Predigt</w> <w xml:id="w581">gehalten</w> <w xml:id="w582">worden</w>
+                    <pc xml:id="pc158">.</pc>
+                </ab>
+            </div>
+      <div xml:id="d6">
+        <head facs="#facs_3_TextRegion_1589281724513_1672"> <lb facs="#facs_3_r_1_1l15" n="N001"/>
+                    <w xml:id="w583">Buͤcher/</w> <w xml:id="w584">welche</w> <w xml:id="w585">zu</w> <w xml:id="w586">verkauffen</w> <w xml:id="w587">ſind</w>
+                    <pc xml:id="pc159">:</pc>
+                </head>
+        <ab xml:id="p17"> <lb facs="#facs_3_line_1589281723156_1669" n="N001"/>
+                    <num xml:id="num23">1</num>
+                    <pc xml:id="pc160">.</pc> <w xml:id="w588">D</w>
+                    <pc xml:id="pc161">.</pc> <w xml:id="w589">Johann</w> <w xml:id="w590">Jacob</w> <w xml:id="w591">Rambachs</w> <w xml:id="w592">exegetiſche</w> <w xml:id="w593">und</w> <w xml:id="w594">poriſmatiſche</w> <w xml:id="w595">Erklaͤrung</w> <lb facs="#facs_3_r_1_1l17" n="N002"/>
+                    <w xml:id="w596">der</w> <w xml:id="w597">Epiſtel</w> <w xml:id="w598">Pauli</w> <w xml:id="w599">an</w> <w xml:id="w600">die</w> <w xml:id="w601">Galater</w> <w xml:id="w602">und</w> <w xml:id="w603">an</w> <w xml:id="w604">den</w> <w xml:id="w605">Titum</w>
+                    <pc xml:id="pc162">,</pc> <w xml:id="w606">in</w> <num xml:id="num24">4</num>
+                    <w xml:id="w607">to</w>
+                    <pc xml:id="pc163">.</pc> <w xml:id="w608">das</w> <w xml:id="w609">Exemplar</w> <lb facs="#facs_3_r_1_1l18" n="N003"/>
+                    <w xml:id="w610">à</w> <num xml:id="num25">1</num>
+                    <pc xml:id="pc164">.</pc> <w xml:id="w611">fl</w>
+                    <pc xml:id="pc165">.</pc> <num xml:id="num26">45</num>
+                    <pc xml:id="pc166">.</pc> <w xml:id="w612">xr</w>
+                    <pc xml:id="pc167">.</pc>
+                </ab>
+        <ab xml:id="p18"> <lb facs="#facs_3_line_1589281721444_1663" n="N001"/>
+                    <num xml:id="num27">2</num>
+                    <pc xml:id="pc168">.</pc> <w xml:id="w613">Prof</w>
+                    <pc xml:id="pc169">.</pc> <w xml:id="w614">Senckenbergs</w> <w xml:id="w615">Meditationes</w>
+                    <pc xml:id="pc170">,</pc> <w xml:id="w616">Faſcic</w>
+                    <pc xml:id="pc171">.</pc> <num xml:id="num28">1</num>
+                    <pc xml:id="pc172">.</pc> <w xml:id="w617">in</w> <num xml:id="num29">8</num>
+                    <w xml:id="w618">vo</w>
+                    <pc xml:id="pc173">.</pc> <w xml:id="w619">à</w> <num xml:id="num30">20</num>
+                    <pc xml:id="pc174">.</pc> <w xml:id="w620">xr</w>
+                    <pc xml:id="pc175">.</pc>
+                </ab>
+        <ab xml:id="p19"> <lb facs="#facs_3_r_1_1l20" n="N001"/>
+                    <num xml:id="num31">3</num>
+                    <pc xml:id="pc176">.</pc> <w xml:id="w621">Ricciardi</w> <w xml:id="w622">de</w> <w xml:id="w623">antiquis</w> <w xml:id="w624">D</w>
+                    <pc xml:id="pc177">.</pc> <w xml:id="w625">Mediolanenſis</w> <w xml:id="w626">Epiſtola</w>
+                    <pc xml:id="pc178">,</pc> <w xml:id="w627">de</w> <w xml:id="w628">Uſu</w> <w xml:id="w629">J</w>
+                    <pc xml:id="pc179">.</pc> <w xml:id="w630">Feud</w>
+                    <pc xml:id="pc180">.</pc> 
+            <w xml:id="w631">Lon<pc xml:id="pc181">-</pc>
+                        <lb facs="#facs_3_r_1_1l21" n="N002"/>gobard</w>
+                    <pc xml:id="pc182">.</pc> <w xml:id="w632">in</w> <num xml:id="num32">4</num>
+                    <w xml:id="w633">to</w>
+                    <pc xml:id="pc183">.</pc> <w xml:id="w634">à</w> <num xml:id="num33">20</num>
+                    <pc xml:id="pc184">.</pc> <w xml:id="w635">xr</w>
+                    <pc xml:id="pc185">.</pc>
+                </ab>
+            </div>
+      <div xml:id="d7">
+        <head facs="#facs_3_TextRegion_1589281712107_1650"> <lb facs="#facs_3_line_1589281708453_1646" n="N001"/>
+                    <w xml:id="w636">Angekommene</w> <w xml:id="w637">frembde</w> <w xml:id="w638">Herren</w> <w xml:id="w639">Paſſagiers</w>
+                    <pc xml:id="pc186">.</pc>
+                </head>
+        <ab xml:id="p20"> <lb facs="#facs_3_line_1589281708454_1647" n="N001"/>
+                    <w xml:id="w640">Herr</w> <w xml:id="w641">Baron</w> <w xml:id="w642">von</w> <w xml:id="w643">Riedel</w>
+                    <pc xml:id="pc187">,</pc> <w xml:id="w644">aus</w> <w xml:id="w645">Berlin</w>
+                    <pc xml:id="pc188">,</pc> <w xml:id="w646">logirt</w> <w xml:id="w647">im</w> <w xml:id="w648">Adler</w>
+                    <pc xml:id="pc189">.</pc> <lb facs="#facs_3_r_1_1l24" n="N002"/>
+                    <w xml:id="w649">Herr</w> <w xml:id="w650">Sell</w>
+                    <pc xml:id="pc190">,</pc> <w xml:id="w651">Amtmann</w> <w xml:id="w652">zu</w> <w xml:id="w653">Umſtadt</w>
+                    <pc xml:id="pc191">,</pc> <w xml:id="w654">logirt</w> <w xml:id="w655">im</w> <w xml:id="w656">Adler</w>
+                    <pc xml:id="pc192">.</pc> <lb facs="#facs_3_r_1_1l25" n="N003"/>
+                    <w xml:id="w657">Herr</w> <w xml:id="w658">Stein</w>
+                    <pc xml:id="pc193">,</pc> <w xml:id="w659">Ober</w>
+                    <pc xml:id="pc194">=</pc>
+                    <w xml:id="w660">Foͤrſter</w> <w xml:id="w661">von</w> <w xml:id="w662">Moͤrlau</w>
+                    <pc xml:id="pc195">,</pc> <w xml:id="w663">logirt</w> <w xml:id="w664">im</w> <w xml:id="w665">froͤlichen</w> <w xml:id="w666">Mann</w>
+                    <pc xml:id="pc196">.</pc> <lb facs="#facs_3_line_1589281706706_1640" n="N004"/>
+                    <w xml:id="w667">Herr</w> <w xml:id="w668">Matthes</w>
+                    <pc xml:id="pc197">,</pc> <w xml:id="w669">Land</w>
+                    <pc xml:id="pc198">=</pc>
+                    <w xml:id="w670">Bereiter</w> <w xml:id="w671">von</w> <w xml:id="w672">Koͤnigsberg</w>
+                    <pc xml:id="pc199">,</pc> <w xml:id="w673">logirt</w> <w xml:id="w674">im</w> <w xml:id="w675">Viehoff</w>
+                    <pc xml:id="pc200">.</pc>
+                </ab>
+            </div>
+      <div xml:id="d8">
+        <head facs="#facs_3_TextRegion_1589281706450_1636"> <lb facs="#facs_3_line_1589281704908_1634" n="N001"/>
+                    <w xml:id="w676">Abgereiſte</w> <w xml:id="w677">Herren</w> <w xml:id="w678">Paſſagiers</w>
+                    <pc xml:id="pc201">.</pc>
+                </head>
+        <ab xml:id="p21"> <lb facs="#facs_3_r_1_1l28" n="N001"/>
+                    <w xml:id="w679">Herr</w> <w xml:id="w680">von</w> <w xml:id="w681">Neufville</w>
+                    <pc xml:id="pc202">,</pc> <w xml:id="w682">Reſident</w> <w xml:id="w683">zu</w> <w xml:id="w684">Franckfurt</w> <w xml:id="w685">vom</w> <w xml:id="w686">Marggraf</w> <w xml:id="w687">von</w> <w xml:id="w688">Onoltzbach</w>
+                    <pc xml:id="pc203">.</pc> <lb facs="#facs_3_r_1_1l29" n="N002"/>
+                    <w xml:id="w689">Herr</w> <w xml:id="w690">Bernard</w>
+                    <pc xml:id="pc204">,</pc> <w xml:id="w691">Chur</w>
+                    <pc xml:id="pc205">=</pc>
+                    <w xml:id="w692">Pfaͤltziſcher</w> <w xml:id="w693">Rath</w>
+                    <pc xml:id="pc206">.</pc> <lb facs="#facs_3_r_1_1l30" n="N003"/>
+                    <w xml:id="w694">Herr</w> <w xml:id="w695">Gruͤnberg</w>
+                    <pc xml:id="pc207">,</pc> <w xml:id="w696">Preußiſcher</w> <w xml:id="w697">Capitain</w>
+                    <pc xml:id="pc208">.</pc>
+                </ab>
+        <ab xml:id="p22"> <lb facs="#facs_3_line_1589281693054_1621" n="N001"/>
+                    <w xml:id="w698">Herr</w>
+                </ab>
+        <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+        <ab xml:id="p23"> <lb facs="#facs_4_r_1_1l1" n="N001"/>
+                    <w xml:id="w699">Herr</w> <w xml:id="w700">Marſchall</w>
+                    <pc xml:id="pc209">,</pc> <w xml:id="w701">Obriſt</w>
+                    <pc xml:id="pc210">=</pc>
+                    <w xml:id="w702">Lieutenant</w> <w xml:id="w703">beym</w> <w xml:id="w704">Hertzog</w> <w xml:id="w705">von</w> <w xml:id="w706">Wuͤrtenberg</w>
+                    <pc xml:id="pc211">.</pc> <lb facs="#facs_4_r_1_1l2" n="N002"/>
+                    <w xml:id="w707">Herr</w> <w xml:id="w708">von</w> <w xml:id="w709">Hoheneck</w>
+                    <pc xml:id="pc212">,</pc> <w xml:id="w710">Thomb</w>
+                    <pc xml:id="pc213">=</pc>
+                    <w xml:id="w711">Herr</w> <w xml:id="w712">von</w> <w xml:id="w713">Worms</w>
+                    <pc xml:id="pc214">.</pc>
+                </ab>
+            </div>
+      <div xml:id="d9">
+        <head facs="#facs_4_r_2_1"> <lb facs="#facs_4_r_2_1l1" n="N001"/>
+                    <w xml:id="w714">Frucht</w>
+                    <pc xml:id="pc215">=</pc>
+                    <w xml:id="w715">Mehl</w>
+                    <pc xml:id="pc216">=</pc>
+                    <w xml:id="w716">und</w> <w xml:id="w717">Fleiſch</w>
+                    <pc xml:id="pc217">=</pc>
+                    <w xml:id="w718">Preiß/</w> <w xml:id="w719">vom</w> <w xml:id="w720">vergangenen</w> <lb facs="#facs_4_r_2_1l2" n="N002"/>
+                    <w xml:id="w721">Sonnabend</w>
+                    <pc xml:id="pc218">.</pc>
+                </head>
+        <table facs="#facs_4_Table_1590656106834_559"> <row n="0"> <cell facs="#facs_4_TableCell_1590656133226_601" n="0" rend="0000"> <lb facs="#facs_4_line_1590656158348_635" n="N001"/>
+                            <w xml:id="w722">Ein</w> <w xml:id="w723">Malther</w> <w xml:id="w724">Korn</w> <num xml:id="num34">4</num>
+                            <pc xml:id="pc219">.</pc>
+                            <w xml:id="w725">fl</w>
+                            <pc xml:id="pc220">.</pc>
+                        </cell>
+                    </row> <row n="1"> <cell facs="#facs_4_TableCell_1590656133226_599" n="0" rend="0000"> <lb facs="#facs_4_line_1590656161544_640" n="N001"/>
+                            <pc xml:id="pc221">=</pc> <w xml:id="w726">Gerſten</w> <pc xml:id="pc222">=</pc> <num xml:id="num35">3</num>
+                            <pc xml:id="pc223">.</pc>
+                            <w xml:id="w727">fl</w>
+                            <pc xml:id="pc224">.</pc> <num xml:id="num36">5</num>
+                            <pc xml:id="pc225">.</pc>
+                            <w xml:id="w728">alb</w>
+                            <pc xml:id="pc226">.</pc>
+                        </cell>
+                    </row> <row n="2"> <cell facs="#facs_4_TableCell_1590656131266_592" n="0" rend="0000"> <lb facs="#facs_4_line_1590656164440_645" n="N001"/>
+                            <pc xml:id="pc227">=</pc> <w xml:id="w729">Speltz</w> <pc xml:id="pc228">=</pc> <num xml:id="num37">1</num>
+                            <pc xml:id="pc229">.</pc>
+                            <w xml:id="w730">fl</w>
+                            <pc xml:id="pc230">.</pc> <num xml:id="num38">24</num>
+                            <pc xml:id="pc231">.</pc> <w xml:id="w731">alb</w>
+                            <pc xml:id="pc232">.</pc>
+                        </cell>
+                    </row> <row n="3"> <cell facs="#facs_4_TableCell_1590656129178_585" n="0" rend="0000"> <lb facs="#facs_4_line_1590656167262_650" n="N001"/>
+                            <pc xml:id="pc233">=</pc> <w xml:id="w732">Hafer</w> <pc xml:id="pc234">=</pc> <num xml:id="num39">1</num>
+                            <pc xml:id="pc235">.</pc>
+                            <w xml:id="w733">fl</w>
+                            <pc xml:id="pc236">.</pc> <num xml:id="num40">28</num>
+                            <pc xml:id="pc237">.</pc>
+                            <w xml:id="w734">alb</w>
+                            <pc xml:id="pc238">.</pc>
+                        </cell>
+                    </row> <row n="4"> <cell facs="#facs_4_TableCell_1590656128002_578" n="0" rend="0000"> <lb facs="#facs_4_line_1590656170502_655" n="N001"/>
+                            <w xml:id="w735">Rocken</w> <w xml:id="w736">Mehl</w> <pc xml:id="pc239">=</pc> <num xml:id="num41">4</num>
+                            <pc xml:id="pc240">.</pc>
+                            <w xml:id="w737">fl</w>
+                            <pc xml:id="pc241">.</pc>
+                            <num xml:id="num42">20</num>
+                            <pc xml:id="pc242">.</pc>
+                            <w xml:id="w738">alb</w>
+                            <pc xml:id="pc243">.</pc>
+                        </cell>
+                    </row> <row n="5"> <cell facs="#facs_4_TableCell_1590656126603_571" n="0" rend="0000"> <lb facs="#facs_4_line_1590656173443_660" n="N001"/>
+                            <w xml:id="w739">Weiß</w> <w xml:id="w740">Mehl</w> <pc xml:id="pc244">=</pc> <num xml:id="num43">5</num>
+                            <pc xml:id="pc245">.</pc> <w xml:id="w741">fl</w>
+                            <pc xml:id="pc246">.</pc> <num xml:id="num44">10</num>
+                            <pc xml:id="pc247">.</pc>
+                            <w xml:id="w742">alb</w>
+                            <pc xml:id="pc248">.</pc>
+                        </cell>
+                    </row>
+                </table>
+        <table facs="#facs_4_Table_1590656112410_563"> <row n="0"> <cell facs="#facs_4_TableCell_1590656152652_630" n="0" rend="0000"> <lb facs="#facs_4_line_1590656176953_665" n="N001"/>
+                            <w xml:id="w743">Das</w> <w xml:id="w744">Pfund</w> <w xml:id="w745">Ochſenfleiſch</w> <num xml:id="num45">5</num>
+                            <pc xml:id="pc249">.</pc>
+                            <w xml:id="w746">xr</w>
+                            <pc xml:id="pc250">.</pc>
+                        </cell>
+                    </row> <row n="1"> <cell facs="#facs_4_TableCell_1590656152652_628" n="0" rend="0000"> <lb facs="#facs_4_line_1590656180003_670" n="N001"/>
+                            <pc xml:id="pc251">=</pc> <w xml:id="w747">Rindfleiſch</w> <num xml:id="num46">4</num>
+                            <pc xml:id="pc252">.</pc> <w xml:id="w748">xr</w>
+                            <pc xml:id="pc253">.</pc> <num xml:id="num47">2</num>
+                            <pc xml:id="pc254">.</pc> <w xml:id="w749">Pf</w>
+                            <pc xml:id="pc255">.</pc>
+                        </cell>
+                    </row> <row n="2"> <cell facs="#facs_4_TableCell_1590656149658_621" n="0" rend="0000"> <lb facs="#facs_4_line_1590656184421_675" n="N001"/>
+                            <pc xml:id="pc256">=</pc> <w xml:id="w750">Kalbfleiſch</w> <pc xml:id="pc257">=</pc> <num xml:id="num48">5</num>
+                            <pc xml:id="pc258">.</pc>
+                            <w xml:id="w751">xr</w>
+                            <pc xml:id="pc259">.</pc>
+                        </cell>
+                    </row> <row n="3"> <cell facs="#facs_4_TableCell_1590656145723_614" n="0" rend="0000"> <lb facs="#facs_4_line_1590656187267_680" n="N001"/>
+                            <pc xml:id="pc260">=</pc> <w xml:id="w752">Schweinenfleiſch</w> <num xml:id="num49">5</num>
+                            <pc xml:id="pc261">.</pc>
+                            <w xml:id="w753">xr</w>
+                            <pc xml:id="pc262">.</pc>
+                        </cell>
+                    </row> <row n="4"> <cell facs="#facs_4_TableCell_1590656142373_607" n="0" rend="0000"> <lb facs="#facs_4_line_1590656189802_685" n="N001"/>
+                            <pc xml:id="pc263">=</pc> <w xml:id="w754">Hammelfleiſch</w> <num xml:id="num50">5</num>
+                            <pc xml:id="pc264">.</pc>
+                            <w xml:id="w755">xr</w>
+                            <pc xml:id="pc265">.</pc>
+                        </cell>
+                    </row>
+                </table>
+            </div>
+      <div xml:id="d10">
+        <head facs="#facs_4_r_7_1"> <lb facs="#facs_4_r_7_1l1" n="N001"/>
+                    <w xml:id="w756">Gebohrne</w>
+                    <pc xml:id="pc266">,</pc> <w xml:id="w757">Getauffte</w>
+                    <pc xml:id="pc267">,</pc> <w xml:id="w758">Copulirte</w> <w xml:id="w759">und</w> <w xml:id="w760">Verſtorbene</w>
+                    <pc xml:id="pc268">,</pc> <w xml:id="w761">von</w> <lb facs="#facs_4_r_7_1l2" n="N002"/>
+                    <w xml:id="w762">voriger</w> <w xml:id="w763">Woche</w>
+                    <pc xml:id="pc269">.</pc>
+                </head>
+            </div>
+      <div xml:id="d11">
+        <head facs="#facs_4_TextRegion_1589282017592_1817"> <lb facs="#facs_4_r_8_1l1" n="N001"/>
+                    <num xml:id="num51">1</num>
+                    <pc xml:id="pc270">.</pc>
+                    <pc xml:id="pc271">)</pc> <w xml:id="w764">Gebohrne</w> <w xml:id="w765">und</w> <w xml:id="w766">Getauffte</w>
+                    <pc xml:id="pc272">.</pc>
+                </head>
+        <ab xml:id="p24"> <lb facs="#facs_4_line_1589282017834_1819" n="N001"/>
+                    <w xml:id="w767">Herrn</w> <w xml:id="w768">Commercien</w>
+                    <pc xml:id="pc273">=</pc>
+                    <w xml:id="w769">Rath</w> <w xml:id="w770">Sippmann</w> <w xml:id="w771">ein</w> <w xml:id="w772">Toͤchterlein</w>
+                    <pc xml:id="pc274">.</pc> <lb facs="#facs_4_r_8_1l3" n="N002"/>
+                    <w xml:id="w773">Herrn</w> <w xml:id="w774">Johann</w> <w xml:id="w775">Chriſtian</w> <w xml:id="w776">Zimmermann</w>
+                    <pc xml:id="pc275">,</pc> <w xml:id="w777">Peinlichen</w> <w xml:id="w778">Gerichts</w>
+                    <pc xml:id="pc276">=</pc> <w xml:id="w779">Auario</w>
+                    <pc xml:id="pc277">,</pc> <w xml:id="w780">ein</w> <lb facs="#facs_4_r_8_1l4" n="N003"/>
+                    <w xml:id="w781">Soͤhnlein</w>
+                    <pc xml:id="pc278">.</pc> <lb facs="#facs_4_r_8_1l5" n="N004"/>
+                    <w xml:id="w782">Mſtr</w>
+                    <pc xml:id="pc279">.</pc> <w xml:id="w783">Johannes</w> <w xml:id="w784">Vollhard</w>
+                    <pc xml:id="pc280">,</pc> <w xml:id="w785">Burgern</w> <w xml:id="w786">und</w> <w xml:id="w787">Schneidern</w>
+                    <pc xml:id="pc281">,</pc> <w xml:id="w788">ein</w> <w xml:id="w789">Toͤchterlein</w>
+                    <pc xml:id="pc282">.</pc> <lb facs="#facs_4_r_8_1l6" n="N005"/>
+                    <w xml:id="w790">Johann</w> <w xml:id="w791">Michael</w> <w xml:id="w792">Krayßer</w>
+                    <pc xml:id="pc283">,</pc> <w xml:id="w793">Herrſchafftl</w>
+                    <pc xml:id="pc284">.</pc> <w xml:id="w794">Knecht</w>
+                    <pc xml:id="pc285">,</pc> <w xml:id="w795">ein</w> <w xml:id="w796">Toͤchterlein</w>
+                    <pc xml:id="pc286">.</pc> <lb facs="#facs_4_r_8_1l7" n="N006"/>
+                    <w xml:id="w797">Mſtr</w>
+                    <pc xml:id="pc287">.</pc> <w xml:id="w798">Johann</w> <w xml:id="w799">Simon</w> <w xml:id="w800">Heyl</w>
+                    <pc xml:id="pc288">,</pc> <w xml:id="w801">Burgern</w> <w xml:id="w802">und</w> <w xml:id="w803">Metzgern</w>
+                    <pc xml:id="pc289">,</pc> <w xml:id="w804">ein</w> <w xml:id="w805">Soͤhnlein</w>
+                    <pc xml:id="pc290">.</pc> <lb facs="#facs_4_r_8_1l8" n="N007"/>
+                    <w xml:id="w806">Mſtr</w>
+                    <pc xml:id="pc291">.</pc> <w xml:id="w807">Johann</w> <w xml:id="w808">Ægydio</w> <w xml:id="w809">Goͤring</w>
+                    <pc xml:id="pc292">,</pc> <w xml:id="w810">Burgern</w> <w xml:id="w811">und</w> <w xml:id="w812">Schreinern</w>
+                    <pc xml:id="pc293">,</pc> <w xml:id="w813">ein</w> <w xml:id="w814">Toͤchterlein</w>
+                    <pc xml:id="pc294">.</pc>
+                </ab>
+            </div>
+      <div xml:id="d12">
+        <head facs="#facs_4_TextRegion_1589282026330_1825"> <lb facs="#facs_4_r_9_1l1" n="N001"/>
+                    <num xml:id="num52">2</num>
+                    <pc xml:id="pc295">.</pc>
+                    <pc xml:id="pc296">)</pc> <w xml:id="w815">Copulirte</w>
+                    <pc xml:id="pc297">.</pc>
+                </head>
+        <ab xml:id="p25"> <lb facs="#facs_4_line_1589282026633_1827" n="N001"/>
+                    <w xml:id="w816">Herr</w> <w xml:id="w817">Johann</w> <w xml:id="w818">Moritz</w> <w xml:id="w819">Lichthammer</w>
+                    <pc xml:id="pc298">,</pc> <w xml:id="w820">Hochfuͤrſtl</w>
+                    <pc xml:id="pc299">.</pc> <w xml:id="w821">aͤlterer</w> <w xml:id="w822">Zeugknecht</w> <w xml:id="w823">bey</w> <w xml:id="w824">der</w> <lb facs="#facs_4_r_9_1l3" n="N002"/>
+                    <w xml:id="w825">teutſchen</w> <w xml:id="w826">Jagd</w> <w xml:id="w827">allhier</w>
+                    <pc xml:id="pc300">,</pc> <w xml:id="w828">Wittwer</w>
+                    <pc xml:id="pc301">,</pc> <w xml:id="w829">mit</w> <w xml:id="w830">Frau</w> <w xml:id="w831">Maria</w> <w xml:id="w832">Catharina</w>
+                    <pc xml:id="pc302">,</pc> <w xml:id="w833">weyland</w> <lb facs="#facs_4_r_9_1l4" n="N003"/>
+                    <w xml:id="w834">Herrn</w> <w xml:id="w835">Johann</w> <w xml:id="w836">Conrad</w> <w xml:id="w837">Weyers</w>
+                    <pc xml:id="pc303">,</pc> <w xml:id="w838">geweſ</w>
+                    <pc xml:id="pc304">.</pc> <w xml:id="w839">Fuͤrſtl</w>
+                    <pc xml:id="pc305">.</pc> <w xml:id="w840">Renth</w>
+                    <pc xml:id="pc306">=</pc>
+                    <w xml:id="w841">Cammer</w>
+                    <pc xml:id="pc307">=</pc>
+            <w xml:id="w842">Regiſtra<pc xml:id="pc308">-</pc>
+                        <lb facs="#facs_4_line_1589282040355_1835" n="N004"/>toris</w> <w xml:id="w843">allhier</w>
+                    <pc xml:id="pc309">,</pc> <w xml:id="w844">hinterlaſſenen</w> <w xml:id="w845">Frau</w> <w xml:id="w846">Wittib</w>
+                    <pc xml:id="pc310">.</pc>
+                </ab>
+        <ab xml:id="p26"> <lb facs="#facs_4_r_9_1l6" n="N001"/>
+                    <w xml:id="w847">Mſtr</w>
+                    <pc xml:id="pc311">.</pc> <w xml:id="w848">Johannes</w> <w xml:id="w849">Reining</w>
+                    <pc xml:id="pc312">,</pc> <w xml:id="w850">Burger</w> <w xml:id="w851">und</w> <w xml:id="w852">Leinenweber</w> <w xml:id="w853">allhier</w>
+                    <pc xml:id="pc313">,</pc> <w xml:id="w854">mit</w> <w xml:id="w855">Anna</w> 
+            <w xml:id="w856">Bar<pc xml:id="pc314">=</pc>
+                        <lb facs="#facs_4_r_9_1l7" n="N002"/>bara</w> <w xml:id="w857">Voltzin</w> <w xml:id="w858">von</w> <w xml:id="w859">Biebesheim</w>
+                    <pc xml:id="pc315">.</pc>
+                </ab>
+            </div>
+      <div xml:id="d13">
+        <head facs="#facs_4_TextRegion_1589282067515_1850"> <lb facs="#facs_4_r_11_1l1" n="N001"/>
+                    <num xml:id="num53">3</num>
+                    <pc xml:id="pc316">.</pc>
+                    <pc xml:id="pc317">)</pc> <w xml:id="w860">Geſtorbene</w> <w xml:id="w861">und</w> <w xml:id="w862">Beerdigte</w>
+                    <pc xml:id="pc318">.</pc>
+                </head>
+        <ab xml:id="p27"> <lb facs="#facs_4_line_1589282067749_1852" n="N001"/>
+                    <w xml:id="w863">Maria</w> <w xml:id="w864">Margaretha</w>
+                    <pc xml:id="pc319">,</pc> <w xml:id="w865">Mſtr</w>
+                    <pc xml:id="pc320">.</pc> <w xml:id="w866">Johann</w> <w xml:id="w867">Philipp</w> <w xml:id="w868">Ayrers</w>
+                    <pc xml:id="pc321">,</pc> <w xml:id="w869">Burgers</w> <w xml:id="w870">und</w> 
+            <w xml:id="w871">Schnei<pc xml:id="pc322">=</pc>
+                        <lb facs="#facs_4_line_1589282075955_1860" n="N002"/>ders</w> <w xml:id="w872">Ehe</w>
+                    <pc xml:id="pc323">=</pc>
+                    <w xml:id="w873">Frau</w>
+                    <pc xml:id="pc324">,</pc> <num xml:id="num54">50</num>
+                    <pc xml:id="pc325">.</pc> <w xml:id="w874">Jahr</w> <w xml:id="w875">alt</w>
+                    <pc xml:id="pc326">.</pc>
+                </ab>
+        <ab xml:id="p28"> <lb facs="#facs_4_line_1589282095842_1867" n="N001"/>
+                    <w xml:id="w876">Des</w> <w xml:id="w877">Hoff</w>
+                    <pc xml:id="pc327">=</pc>
+                    <w xml:id="w878">Becker</w> <w xml:id="w879">Wucherpfennings</w> <w xml:id="w880">Mutter</w>
+                    <pc xml:id="pc328">,</pc> <num xml:id="num55">72</num>
+                    <pc xml:id="pc329">.</pc> <w xml:id="w881">Jahr</w>
+                    <pc xml:id="pc330">.</pc>
+                </ab>
+        <ab xml:id="p29"> <lb facs="#facs_4_r_11_1l5" n="N001"/>
+                    <w xml:id="w882">Johannes</w> <w xml:id="w883">May</w>
+                    <pc xml:id="pc331">,</pc> <w xml:id="w884">Burgern</w> <w xml:id="w885">und</w> <w xml:id="w886">Fuhrmann</w>
+                    <pc xml:id="pc332">,</pc> <w xml:id="w887">ein</w> <w xml:id="w888">Soͤhnlein</w>
+                    <pc xml:id="pc333">,</pc> <num xml:id="num56">13</num>
+                    <pc xml:id="pc334">.</pc> <w xml:id="w889">Jahr</w>
+                    <pc xml:id="pc335">.</pc>
+                </ab>
+            </div>
+    </body>
+  </text>
+</tei:TEI>
